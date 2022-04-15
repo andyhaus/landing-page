@@ -173,6 +173,8 @@ img {
     background: white;
     display: flex;
     justify-content: center;
+    margin-bottom: 75px;
+    margin-top: 75px;
 }
 
 .blue-box {
@@ -213,7 +215,7 @@ img {
     color: white;
     background-color: #3882f6;
     border-color: white;
-    border-width: 5px;
+    border-width: 4px;
     font-size: 18px;
     text-align: center;
     margin-top: 20px;
@@ -221,4 +223,19 @@ img {
 
 .left-signup {
     width: 400px;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    margin: 0px -19px -19px -19px;
+}
+
+.footer-text {
+    margin: 40px 0px 40px 0px;
+    color: white;
+    font-size: 18px;
 }
